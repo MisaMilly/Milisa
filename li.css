@@ -1,0 +1,19 @@
+body {
+        text-align: center;
+        background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,27,255,1) 14%, rgba(0,0,0,1) 33%, rgba(255,255,255,1) 49%, rgba(14,25,204,1) 65%, rgba(0,0,0,1) 81%, rgba(255,255,255,1) 100%);
+}
+
+    h1 {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(0, 0, 255);
+        margin-left: 10px;
+        font-size: 79px;
+}
+
+    h2 {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(255, 255, 255);
+        margin-left: 14px;
+        margin-right: 14px;
+        font-size: 38px;
+    }
